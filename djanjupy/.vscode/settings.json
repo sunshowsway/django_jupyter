@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/brucewade/.local/share/virtualenvs/django_jupyter/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+}
